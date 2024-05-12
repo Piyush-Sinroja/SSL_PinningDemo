@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "55AADAC3-6AEC-44FF-88E3-9F0ECC8B77E0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ED75401-6CA8-464D-BF18-6187C3DB6735"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SSL_PinningDemo/API/APIManagerAsync.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "request(type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8ED75401-6CA8-464D-BF18-6187C3DB6735 - 287b18b810db2b17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SSL_PinningDemo.APIManagerAsync.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: SSL_PinningDemo.APIEndPointAsync) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SSL_PinningDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacintoshHD1/Pratik/PratikPanchal/iOS/SSL_Pinning/SSL_PinningDemo/SSL_PinningDemo/API/APIManagerAsync.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "8ED75401-6CA8-464D-BF18-6187C3DB6735 - 287b18b810db2c3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SSL_PinningDemo.APIManagerAsync.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: SSL_PinningDemo.APIEndPointAsync) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SSL_PinningDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacintoshHD1/Pratik/PratikPanchal/iOS/SSL_Pinning/SSL_PinningDemo/SSL_PinningDemo/API/APIManagerAsync.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "8ED75401-6CA8-464D-BF18-6187C3DB6735 - 287b18b810db2c5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SSL_PinningDemo.APIManagerAsync.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: SSL_PinningDemo.APIEndPointAsync) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SSL_PinningDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacintoshHD1/Pratik/PratikPanchal/iOS/SSL_Pinning/SSL_PinningDemo/SSL_PinningDemo/API/APIManagerAsync.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "8ED75401-6CA8-464D-BF18-6187C3DB6735 - 287b18b810db2cf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SSL_PinningDemo.APIManagerAsync.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: SSL_PinningDemo.APIEndPointAsync) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SSL_PinningDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacintoshHD1/Pratik/PratikPanchal/iOS/SSL_Pinning/SSL_PinningDemo/SSL_PinningDemo/API/APIManagerAsync.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "8ED75401-6CA8-464D-BF18-6187C3DB6735 - 287b18b810db2cb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SSL_PinningDemo.APIManagerAsync.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: SSL_PinningDemo.APIEndPointAsync) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SSL_PinningDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacintoshHD1/Pratik/PratikPanchal/iOS/SSL_Pinning/SSL_PinningDemo/SSL_PinningDemo/API/APIManagerAsync.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "860">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C18CE516-CF7E-4E53-965D-0B60D82CC33A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SSL_PinningDemo/API/APIManagerAsync.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "request(type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C18CE516-CF7E-4E53-965D-0B60D82CC33A - 287b18b810db29fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SSL_PinningDemo.APIManagerAsync.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: SSL_PinningDemo.APIEndPointAsync) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SSL_PinningDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacintoshHD1/Pratik/PratikPanchal/iOS/SSL_Pinning/SSL_PinningDemo/SSL_PinningDemo/API/APIManagerAsync.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "C18CE516-CF7E-4E53-965D-0B60D82CC33A - 287b18b810db2ae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SSL_PinningDemo.APIManagerAsync.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: SSL_PinningDemo.APIEndPointAsync) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SSL_PinningDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacintoshHD1/Pratik/PratikPanchal/iOS/SSL_Pinning/SSL_PinningDemo/SSL_PinningDemo/API/APIManagerAsync.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "C18CE516-CF7E-4E53-965D-0B60D82CC33A - 287b18b810db2d07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SSL_PinningDemo.APIManagerAsync.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: SSL_PinningDemo.APIEndPointAsync) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SSL_PinningDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacintoshHD1/Pratik/PratikPanchal/iOS/SSL_Pinning/SSL_PinningDemo/SSL_PinningDemo/API/APIManagerAsync.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "C18CE516-CF7E-4E53-965D-0B60D82CC33A - 287b18b810db2dda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SSL_PinningDemo.APIManagerAsync.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: SSL_PinningDemo.APIEndPointAsync) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SSL_PinningDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacintoshHD1/Pratik/PratikPanchal/iOS/SSL_Pinning/SSL_PinningDemo/SSL_PinningDemo/API/APIManagerAsync.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "C18CE516-CF7E-4E53-965D-0B60D82CC33A - 287b18b810db2d98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SSL_PinningDemo.APIManagerAsync.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(type: SSL_PinningDemo.APIEndPointAsync) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "SSL_PinningDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/MacintoshHD1/Pratik/PratikPanchal/iOS/SSL_Pinning/SSL_PinningDemo/SSL_PinningDemo/API/APIManagerAsync.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
